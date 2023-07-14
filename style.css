@@ -130,7 +130,7 @@ section {
   }
 
   h2 {
-    font-size: 3rem;
+    font-size: 2.8rem;
   }
 
   .view {
@@ -144,30 +144,4 @@ section {
     margin: 0;
   }
 }
-/* 
-@media only screen and (min-width: 600px) {
-  
-    nav {
-    display: none;
-  }
 
-  .text-img {
-    display: block;
-    flex-flow: column wrap;
-  }
-
-  h2 {
-    font-size: 3rem;
-  }
-
-  .view {
-    height: 100vh;
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-    align-items: center;
-  }
-  .img-center {
-    margin: 0;
-  }
-} */
