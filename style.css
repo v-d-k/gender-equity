@@ -89,6 +89,8 @@ p {
    margin: 0 auto;
    /* max-width: 1400px; */
    max-width: 95%;
+   display: flex;
+   flex-flow: colum wrap;
 }
 
 .view2 {
