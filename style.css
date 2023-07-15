@@ -95,7 +95,7 @@ p {
 
 .view2 {
    margin: 0 auto;
-   max-width: 95%;
+   max-width: 90%;
    display: flex;
    flex-flow: row wrap;
    padding: 2%;
