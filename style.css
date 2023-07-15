@@ -88,7 +88,7 @@ p {
 .view {
    margin: 0 auto;
    max-width: 1200px;
-   min-width: 1000px;
+   min-width: auto;
 }
 
 .view2 {
