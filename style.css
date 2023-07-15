@@ -87,17 +87,14 @@ p {
 
 .view {
    margin: 0 auto;
-   /* max-width: 1400px; */
-   max-width: 95%;
-   display: flex;
-   flex-flow: colum wrap;
+   max-width: 1400px;
 }
 
 .view2 {
    margin: 0 auto;
-   max-width: 90%;
+   max-width: 1400px;
    display: flex;
-   flex-flow: row wrap;
+   flex-flow: column wrap;
    padding: 2%;
    padding-top: 6rem;
 }
@@ -122,7 +119,7 @@ section {
 
 /* media query */
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 1450px) {
   nav {
     display: none;
   }
@@ -139,7 +136,7 @@ section {
   .view {
     height: 100vh;
     display: flex;
-    /* flex-flow: column wrap; */
+    flex-flow: column wrap;
     justify-content: center;
     align-items: center;
   }
