@@ -87,12 +87,12 @@ p {
 
 .view {
    margin: 0 auto;
-   max-width: 1400px;
+   max-width: 1200px;
 }
 
 .view2 {
    margin: 0 auto;
-   max-width: 1400px;
+   max-width: 1200px;
    display: flex;
    flex-flow: column wrap;
    padding: 2%;
